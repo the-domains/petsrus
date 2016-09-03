@@ -1,20 +1,4 @@
-name: petsrus
-favicon: null
-layout_spectrum: 0.8550996722187847
 typography_spectrum: 0.017965691396966577
-title: Your Chicago Realtor
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,4 +10,20 @@ color:
   lightness: 0.7267218630295247
   saturation: 0.3802501866593957
   rhythmicContrast: 0.49303443799726665
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8550996722187847
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: petsrus
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 4 Paws Merch
 purpose: []
